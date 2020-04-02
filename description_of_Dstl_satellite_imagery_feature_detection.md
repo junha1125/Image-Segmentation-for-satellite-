@@ -1,5 +1,6 @@
 # Dstl Satellite Imagery Feature Detection
-링크 : https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/overview
+
+링크 :  https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/overview 
 
 ### 1. overview
 
@@ -86,26 +87,30 @@ Dstl은 10 가지 클래스로 분류
 
 ## 파일 설명
 
-- - **train_wkt.csv-** 모든 교육 레이블의 WKT 형식
+- **train_wkt.csv-** 모든 교육 레이블의 WKT 형식
 
-  - - ImageId-이미지의 ID
-    - ClassType-객체 유형 (1-10)
-    - MultipolygonWKT-레이블이 지정된 영역으로 WKT 형식으로 표현 된 다중 다각형 지오메트리 
+- ImageId-이미지의 ID
 
-  - **three_band.zip** -3 밴드 위성 이미지의 완전한 데이터 세트. 세 개의 밴드는 파일 이름이 {ImageId} .tif 인 이미지에 있다. MD5 = 7cf7bf17ba3fa3198a401ef67f4ef9b4 
+- ClassType-객체 유형 (1-10)
+- MultipolygonWKT-레이블이 지정된 영역으로 WKT 형식으로 표현 된 다중 다각형 지오메트리 
 
-  - **sixteen_band.zip** -16 밴드 위성 이미지의 완전한 데이터 세트. 16 개의 밴드는 파일 이름이 {ImageId} _ {A / M / P} .tif 인 이미지에 배포된다. MD5 = e2949f19a0d1102827fce35117c5f08a
+- **three_band.zip** -3 밴드 위성 이미지의 완전한 데이터 세트. 세 개의 밴드는 파일 이름이 {ImageId} .tif 인 이미지에 있다. MD5 = 7cf7bf17ba3fa3198a401ef67f4ef9b4 
 
-  - **grid_sizes.csv-** 모든 이미지의 격자 크기
+- **sixteen_band.zip** -16 밴드 위성 이미지의 완전한 데이터 세트. 16 개의 밴드는 파일 이름이 {ImageId} _ {A / M / P} .tif 인 이미지에 배포된다. MD5 = e2949f19a0d1102827fce35117c5f08a
 
-  - - ImageId-이미지의 ID
-    - Xmax-이미지의 최대 X 좌표
-    - Ymin-이미지의 최소 Y 좌표
+- **grid_sizes.csv-** 모든 이미지의 격자 크기
 
-  - **sample_submission.csv-** 올바른 형식의 샘플 제출 파일
+  - ImageId-이미지의 ID
 
-  - - ImageId-이미지의 ID
-    - ClassType-객체 유형 (1-10)
-    - MultipolygonWKT-레이블이 지정된 영역으로 WKT 형식으로 표현 된 다중 다각형 지오메트리
+  - Xmax-이미지의 최대 X 좌표
+  - Ymin-이미지의 최소 Y 좌표
 
-  - **train_geojson.zip-** 모든 교육 레이블의 geojson 형식 (본질적으로 train_wkt.csv와 동일한 정보 임) 
+- **sample_submission.csv-** 올바른 형식의 샘플 제출 파일
+
+  - ImageId-이미지의 ID
+
+  - ClassType-객체 유형 (1-10)
+  - MultipolygonWKT-레이블이 지정된 영역으로 WKT 형식으로 표현 된 다중 다각형 지오메트리
+
+- **train_geojson.zip-** 모든 교육 레이블의 geojson 형식 (본질적으로 train_wkt.csv와 동일한 정보 임) 
+
