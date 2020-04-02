@@ -1,2 +1,7 @@
 # Satellite_Detection
-Satellite detection Study for Alpha project and 
+Satellite detection Study for Alpha project and papaer submission 
+
+### reference
+1. MSTAR, Codalab:  https://junha1125.tistory.com/53
+2. Kaggle, Git : https://junha1125.tistory.com/54
+
