@@ -1,5 +1,4 @@
 # Github_satellite_segmentation_models_list
-
 <br>
 
 ### 1. RoboSat (1.6k)
@@ -9,7 +8,6 @@ RoboSat은 항공 및 위성 이미지에서 feature 추출을 위해 Python 3�
  ![RoboSat pipeline extracting buildings from aerial imagery](https://github.com/mapbox/robosat/raw/master/assets/buildings.png) 
 
 링크 :  https://github.com/mapbox/robosat 
-
 <br>
 
 
@@ -33,8 +31,6 @@ RoboSat은 항공 및 위성 이미지에서 feature 추출을 위해 Python 3�
 6. post-processing: CRF
 
 링크 :  https://github.com/AstarLight/Satellite-Segmentation 
-
-
 <br>
 
 ### 3. ssai-cnn (234)
@@ -42,8 +38,6 @@ RoboSat은 항공 및 위성 이미지에서 feature 추출을 위해 Python 3�
 Convolutional Neural Networks를 사용한 Semantic Segmentation for Aerial / Satellite Images 이다.
 
 링크 :  https://github.com/mitmul/ssai-cnn 
-
-
 <br>
 
 ### 4. kaggle-dstl (181) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -51,8 +45,6 @@ Convolutional Neural Networks를 사용한 Semantic Segmentation for Aerial / Sa
  Kaggle *DSTL* *Satellite* *Imagery* Feature Detection 
 
 링크 :  https://github.com/lopuhin/kaggle-dstl 
-
-
 <br>
 
 ### 5. Deep UNet for satellite image segmentation (148)
@@ -65,14 +57,13 @@ Convolutional Neural Networks를 사용한 Semantic Segmentation for Aerial / Sa
 <br>
 
 
-
 ### 6. kaggle_dstl_submission (141) <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
  Code for a winning model (3 out of 419) in a Dstl Satellite Imagery Feature Detection challenge https://arxiv.org/abs/1706.06169 
 
 링크 :  https://github.com/ternaus/kaggle_dstl_submission 
 <br>
-
+<br>
 
 
 ### 7. eye-in-the-sky (122)
@@ -80,7 +71,6 @@ Convolutional Neural Networks를 사용한 Semantic Segmentation for Aerial / Sa
  Satellite Image Classification using **semantic segmentation** methods in deep learning [http://inter-iit.tech/events/the-eye-…](http://inter-iit.tech/events/the-eye-in-the-sky.html) 
 
 링크 :  https://github.com/manideep2510/eye-in-the-sky 
-
 <br>
 
 
@@ -89,7 +79,6 @@ Convolutional Neural Networks를 사용한 Semantic Segmentation for Aerial / Sa
  Dstl Satellite Imagery Feature Detection
 
 링크 :  https://github.com/rogerxujiang/dstl_unet
-
 <br>
 
 
@@ -98,7 +87,6 @@ Convolutional Neural Networks를 사용한 Semantic Segmentation for Aerial / Sa
  9th place solution in "Dstl Satellite Imagery Feature Detection" 
 
 링크 :  https://github.com/toshi-k/kaggle-satellite-imagery-feature-detection 
-
 <br>
 
 
@@ -109,7 +97,6 @@ Convolutional Neural Networks를 사용한 Semantic Segmentation for Aerial / Sa
  A Tensorflow implementation of **light UNet** framework for remote sensing **semantic segmentation** task. 
 
 링크 :  https://github.com/YudeWang/UNet-Satellite-Image-Segmentation 
-
 <br>
 
 
@@ -121,6 +108,8 @@ Convolutional Neural Networks를 사용한 Semantic Segmentation for Aerial / Sa
 
 링크 :  https://github.com/olgaliak/segmentation-unet-maskrcnn 
 <br>
+<br>
+<br>
 
 
 
@@ -128,7 +117,9 @@ Convolutional Neural Networks를 사용한 Semantic Segmentation for Aerial / Sa
 
  A tool of running deep learning algorithms for **semantic segmentation** with satellite imagery 
 
-링크 :  https://github.com/Geoyi/pixel-decoder 
+링크 :  https://github.com/Geoyi/pixel-decoder
+<br>
+<br>
 <br>
 
 
