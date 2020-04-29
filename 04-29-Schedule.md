@@ -10,6 +10,6 @@
     - 2016 (90p-cite:12) Semantic Segmentation of Satellite Images using Deep Learning
 5. mantic-segmentation-pytorch (3k)
 
-## **4/29**부터 일주일
+## **04/29 ~ 05/06** 
 - 준하 : 논문 읽기 -> 2020 끝 -> 상대에게 설명 -> AutoDriving
 - 로제 : kaggle -> 상대에게 설명 -> Pytorch -> 2020 논문읽기
